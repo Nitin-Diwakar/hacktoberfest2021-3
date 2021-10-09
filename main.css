@@ -1,3 +1,12 @@
 body {
-
+background-color: #222233;
+ color: #ffffff;
+  
 }
+a:link{
+  color:#ffbc1f;
+}
+a:hover {
+  color: #d19200;
+}
+  
